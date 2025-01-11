@@ -20,5 +20,6 @@ https://github.com/cupid007/IPTV/blob/main/IPTV.m3u
 https://raw.githubusercontent.com/SeanLi71/SeanLi71/main/mychannel.txt
 https://raw.gitmirror.com/SeanLi71/SeanLi71/main/mychannel.txt
 
+https://github.com/YanG-1989/m3u/blob/main/Gather.m3u
 
 shandong liantong guangmao chaoji mima 山东联通 tewa-800e cuadmin53790009
