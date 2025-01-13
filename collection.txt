@@ -23,3 +23,31 @@ https://raw.gitmirror.com/SeanLi71/SeanLi71/main/mychannel.txt
 https://github.com/YanG-1989/m3u/blob/main/Gather.m3u
 
 shandong liantong guangmao chaoji mima 山东联通 tewa-800e cuadmin53790009
+1. 下载两个文件：
+
+o 电视直播文件（天光云影APP）：https://tmxk.pp.ua/mytv-android.zip
+（里面的zip文件包含了两个必备文件）
+
+o All in one的可执行文件（更新自选版本）：https://v1.mk/allinone
+
+2. 下载说明：
+
+o 安卓直播文件：文件名末尾为original.apk的APK文件。
+
+o 可执行文件：选择allinone_linux_arm_2024xxxxxxx.zip，适用于大多数32位安卓系统电视盒子和电视机。
+
+3. 解压缩：提前解压All in one文件，获得执行文件。
+
+注意：手机、电视均可下载，但要求手机和电视在同一局域网下，这样才能顺利完成推送或配置。
+
+简易过程：
+
+1. 从肥羊https://v1.mk/allinone ，上下载allinone_linux_。.zip（匹配设备64位、32位），解压出里面的二进制文件
+
+1. 打开配置网页：http://设备ip:10481
+
+2. 配置界面最下面，上传二进制文件或填入文件路径（例如/sdcard/Download/allinone_linux_arm64）。这种外部路径（/sdcard）请确保有文件读取权限（设置/权限中点击授予）
+
+3. 添加直播源：http://127.0.0.1:35455/tv.m3u
+
+4. 选中直播源后重启，allinone需要5秒左右启动时间（感谢肥羊、天光云影）
